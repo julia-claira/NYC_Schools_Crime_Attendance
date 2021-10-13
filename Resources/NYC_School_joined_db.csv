@@ -1,0 +1,28 @@
+school id,School Name,Borough,White,Black,Hispanic,Asian,Avg Score Math,Avg Score Reading,Avg Score Writing,Tested Percent,Mean Scale Score,enrolled_2015_2018,present_2015_2018,absent_2015_2018,attendance_prc,Major N,Orth N,NoCrim N,Prop N,Vio N,total_crime
+01M450,East Side Community School,Manhattan,8.3%,22.1%,57.9%,9.4%,454,428,445,85.2%,309.958333333333,679,642,32,94.57,0,4,1,1,1,7
+01M539,"New Explorations into Science, Technology and Math High School",Manhattan,28.6%,13.3%,18.0%,38.5%,657,601,601,91.0%,348.8,1738,1613,69,92.82,0,3,2,3,0,8
+02M413,School of the Future High School,Manhattan,35.9%,11.7%,30.4%,14.4%,534,533,522,89.9%,316.102040816327,747,706,37,94.49,1,2,1,3,0,7
+02M655,Life Sciences Secondary School,Manhattan,3.2%,28.3%,62.2%,4.3%,435,440,425,63.0%,291.846153846154,586,438,107,74.8,2,5,17,4,3,31
+04M610,Young Women's Leadership School,Manhattan,3.4%,27.9%,57.4%,8.9%,478,465,472,100.0%,305.852941176471,484,432,28,89.23,0,1,0,1,0,2
+05M499,Frederick Douglass Academy,Manhattan,1.4%,70.4%,23.2%,1.7%,463,452,450,65.1%,286.512195121951,1369,1138,138,83.13,1,5,10,2,3,21
+05M670,Thurgood Marshall Academy for Learning and Social Change,Manhattan,0.8%,77.6%,19.6%,1.3%,402,394,400,84.7%,293.514285714286,544,474,38,87.11,1,2,4,3,0,10
+06M346,Community Health Academy of the Heights,Manhattan,2.7%,4.9%,91.8%,0.0%,387,389,385,55.3%,284.511111111111,670,551,87,82.28,0,1,1,0,1,3
+08X269,Bronx Studio School for Writers and Artists,Bronx,0.6%,20.3%,76.9%,1.2%,417,412,403,71.6%,282.152173913043,620,518,72,83.56,4,8,8,6,5,31
+09X231,Eagle Academy for Young Men,Bronx,0.5%,60.7%,36.0%,0.3%,398,410,397,65.7%,283.972222222222,526,447,54,84.89,2,3,4,0,3,12
+09X505,"Bronx School for Law, Government, and Justice",Bronx,1.0%,23.1%,72.0%,2.2%,403,409,415,63.8%,299.341463414634,764,665,59,87.03,0,3,8,1,1,13
+10X141,Riverdale/Kingsbridge Academy,Bronx,23.7%,12.3%,55.7%,7.7%,496,485,476,69.4%,301.357142857143,1451,1294,86,89.21,0,4,6,4,0,14
+10X368,In-Tech Academy,Bronx,3.4%,10.8%,82.8%,2.8%,426,419,404,85.9%,286.288461538462,970,856,70,88.29,0,3,3,1,1,8
+12X271,East Bronx Academy for the Future,Bronx,0.5%,25.4%,71.0%,3.0%,418,406,408,41.1%,279.947368421053,666,522,104,78.33,1,11,13,8,3,36
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,Brooklyn,0.7%,73.0%,22.8%,0.7%,332,346,350,55.1%,281.114285714286,384,296,66,77.23,0,5,3,2,3,13
+14K071,Juan Morel Campos Secondary School,Brooklyn,2.5%,13.6%,82.7%,0.3%,366,356,353,56.3%,271.304347826087,571,480,62,84.07,1,5,5,3,3,17
+17K590,Medgar Evers College Preparatory School,Brooklyn,0.6%,90.9%,3.3%,2.9%,525,500,481,89.0%,329.518518518519,1229,1059,99,86.18,0,2,2,2,0,6
+19K409,East New York Family Academy,Brooklyn,0.4%,67.6%,29.5%,2.2%,464,451,421,66.7%,297.692307692308,492,428,41,86.99,0,0,1,0,0,1
+21K690,Brooklyn Studio Secondary School,Brooklyn,53.3%,5.1%,25.0%,16.2%,458,434,434,67.8%,306.88,918,778,91,84.76,0,2,3,0,1,6
+24Q560,Robert F. Wagner Jr. Secondary School for Arts and Technology,Queens,10.9%,4.9%,64.3%,19.2%,478,445,445,71.1%,323.457142857143,634,551,43,86.98,0,2,0,2,0,4
+27Q323,Scholars' Academy,Queens,34.7%,22.7%,19.6%,21.4%,588,560,568,99.2%,340.5625,1342,1240,51,92.35,0,0,0,0,0,0
+28Q680,Queens Gateway to Health Sciences Secondary School,Queens,2.9%,38.2%,14.2%,43.3%,524,511,514,92.5%,331.833333333333,703,641,24,91.19,0,2,1,1,1,5
+28Q896,Young Women's Leadership School in Queens,Queens,1.9%,47.5%,19.7%,26.9%,415,420,433,90.4%,318,555,502,28,90.35,1,1,3,2,0,7
+30Q286,Young Women's Leadership School in Astoria,Queens,19.6%,4.7%,38.0%,37.7%,483,464,477,100.0%,309.547619047619,560,509,27,90.88,0,0,0,0,0,0
+30Q580,Baccalaureate School for Global Education,Queens,34.5%,2.5%,21.2%,39.6%,633,620,628,98.5%,349.903225806452,513,476,19,92.8,0,0,0,0,0,0
+31R080,Michael J. Petrides School,Staten Island,49.8%,22.3%,20.2%,6.9%,483,473,470,79.2%,307.950617283951,1321,1203,85,91.06,1,4,2,3,1,11
+32K554,All City Leadership Secondary School,Brooklyn,1.7%,14.6%,77.0%,6.2%,467,446,448,85.0%,324.6,409,370,19,90.58,0,0,1,0,0,1
