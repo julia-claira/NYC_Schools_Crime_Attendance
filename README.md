@@ -35,14 +35,16 @@ Python, Jupyter Notebook, SQLAlchemy, pgAdmin, Tableau
   
 ## Graphs
 
-Daily cases and deaths for entire pandemic. User can zoom in as well as see daily tallies by moving their cursor over the graph.  
+The following graphs were generated in Tableau:  
+([Diversity in NYC Schools - Tableau Story](https://public.tableau.com/app/profile/julia4245/viz/NYC_School_Stats/NYC_Diversity_Story?publish=yes))
 
+Diversity in individual schools, and borough diversity comparison:
 <img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/graphs_1.jpg" width="70%" height="70%">
 
-Shows the risk level, trend, and ICU capacity for the area presently. (I calculate trend by taking the total confirmed cases of the last seven days and comparing it the previous week.)
+Correlation between diversity and other school measurments, such as attendance, school crime, SAT scores, and enrollment:
+<img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/graph_2.jpg" width="70%" height="70%">
 
-<img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/graph2.jpg" width="70%" height="70%">
-
+Racial composition in the most diverse and least diverse schools:
 <img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/graph3.jpg" width="70%" height="70%">
 
 
