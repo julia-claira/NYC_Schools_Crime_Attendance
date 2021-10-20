@@ -51,19 +51,14 @@ Shows the risk level, trend, and ICU capacity for the area presently. (I calcula
 
 
 ## Data
+The Data was pulled from the following sources, cleaned in Jupyter Notebook, and joined in SQL:
 
-This app pulls data the following data from the [COVID ACT NOW API](https://apidocs.covidactnow.org/).
+High school directory: https://www.kaggle.com/new-york-city/nyc-high-school-director
+School attendance: Data.cityofnewyork.us
+School Safety report: https://www.kaggle.com/new-york-city/ny-2010-2016-school-safety-report?select=2010-2016-school-safety-report.csv
+SAT scores: https://www.kaggle.com/nycopendata/high-schools
 
-<b>New Cases:</b>  New confirmed or suspected cases.<br>
-<b>New Deaths:</b>  New deaths since previous report with erratic values removed by outlier detection.<br>
-<b>Total Cases:</b>  Cumulative confirmed or suspected cases.<br>
-<b>Total Deaths:</b>  Cumulative deaths that are suspected or confirmed to have been caused by COVID-19.<br>
-<b>Fully Vaccinated:</b>  Total number of people completing vaccination - currently those completing their second shot.<br>
-<b>Partially Vaccinated:</b>  Ratio of population that has initiated vaccination.<br>
-<b>Risk Level:</b>  The overall risk level is based on caseDensity, testPositivityRatio, and infectionRate.<br>
-<b>New Cases Trend:</b>  The increase or decrease of newly confirmed cases for state or county as compared to the previous week.<br>
-<b>Icu Bed Capacity:</b>  Information about ICU bed utilization details.<br>
-
+I focused on data from 2015 as that was the common denominator for the most recent year.
 
 
 ## Contact
