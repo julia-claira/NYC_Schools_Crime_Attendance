@@ -6,6 +6,8 @@ Explores diversity and possible correlations in the New York City Public school 
 
 ![Simson's Diversity Index formula](Resources/formula.png)
 
+<img src="Resources/formula.png" width="440" height="264"/>
+
 High scores (close to 1) indicate high diversity.
 Low scores (close to 0) indicate low diversity.
 
@@ -36,13 +38,15 @@ Python, Jupyter Notebook, SQLAlchemy, pgAdmin, Tableau
 
 Daily cases and deaths for entire pandemic. User can zoom in as well as see daily tallies by moving their cursor over the graph.  
 
-![Sample Graph](Resources/graph_1.png)
+![Sample Graph](Resources/graphs_1.jpg)
+
+
 
 Shows the risk level, trend, and ICU capacity for the area presently. (I calculate trend by taking the total confirmed cases of the last seven days and comparing it the previous week.)
 
-![Sample Graphs](Resources/graphs2.png)
+![Sample Graphs](Resources/graph2.jpg)
 
-![Sample Graphs](Resources/graphs3.png)
+![Sample Graphs](Resources/graph3.jpg)
 
 
 
