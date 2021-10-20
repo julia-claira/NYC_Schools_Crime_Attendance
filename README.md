@@ -38,14 +38,17 @@ Python, Jupyter Notebook, SQLAlchemy, pgAdmin, Tableau
 Daily cases and deaths for entire pandemic. User can zoom in as well as see daily tallies by moving their cursor over the graph.  
 
 ![Sample Graph](Resources/graphs_1.jpg)
+<img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/formula.png" width="20%" height="20%">
 
 
 
 Shows the risk level, trend, and ICU capacity for the area presently. (I calculate trend by taking the total confirmed cases of the last seven days and comparing it the previous week.)
 
 ![Sample Graphs](Resources/graph2.jpg)
+<img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/formula.png" width="20%" height="20%">
 
 ![Sample Graphs](Resources/graph3.jpg)
+<img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/formula.png" width="20%" height="20%">
 
 
 
@@ -59,6 +62,14 @@ School Safety report: https://www.kaggle.com/new-york-city/ny-2010-2016-school-s
 SAT scores: https://www.kaggle.com/nycopendata/high-schools
 
 I focused on data from 2015 as that was the common denominator for the most recent year.
+
+The following people, including myself contributed to cleaing the data:
+* [@hamiltojogo](https://github.com/hamiltojogo)
+* [@KDrummerGirlLB](https://github.com/DrummerGirlLB)
+* [@Claira](https://github.com/julia-claira)
+* [@KristaJoy](https://github.com/KristaJoy)
+
+
 
 
 ## Contact
