@@ -2,9 +2,14 @@
 
 ## Description 
 
-I developed this user-friendly app with a basic interface to make it easier to track daily numbers in one's area. Other sites require digging through pages of complex data and graphs, information that the average person doesn't care about. I've learned that to effectively reach people, what you leave is just as important as what you include.
+Explores diversity and possible correlations in the New York City Public school system.
 
+I calculated diversity by using Simpson's Diversity Index, which results in a rating between 0 and 1.
 
+![Simson's Diversity Index formula](Resources/formula.png)
+
+High scores (close to 1) indicate high diversity.
+Low scores (close to 0) indicate low diversity.
 
 ## Table of Contents
 * [Run](#Results)
@@ -17,9 +22,9 @@ I developed this user-friendly app with a basic interface to make it easier to t
 
 ## Run
 
-The below link takes you to the app, running on Heroku:
+The below link takes you to the dashboard on Tableau Public:
 
-[Tableau Public - Diversity in NYC Schools](https://public.tableau.com/app/profile/julia4245/viz/NYC_School_Stats/NYC_Diversity_Story?publish=yes)
+[Diversity in NYC Schools - Tableau Story](https://public.tableau.com/app/profile/julia4245/viz/NYC_School_Stats/NYC_Diversity_Story?publish=yes)
 
 
   
