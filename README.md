@@ -36,11 +36,13 @@ Python, Jupyter Notebook, SQLAlchemy, pgAdmin, Tableau
 
 Daily cases and deaths for entire pandemic. User can zoom in as well as see daily tallies by moving their cursor over the graph.  
 
-![Sample Graph](static/graph_sample.png)
+![Sample Graph](Resources/graph_1.png)
 
 Shows the risk level, trend, and ICU capacity for the area presently. (I calculate trend by taking the total confirmed cases of the last seven days and comparing it the previous week.)
 
-![Sample Graphs](static/graphs_3.png)
+![Sample Graphs](Resources/graphs2.png)
+
+![Sample Graphs](Resources/graphs3.png)
 
 
 
