@@ -2,9 +2,7 @@
 
 ## Description 
 
-Explores diversity and possible correlations in the New York City Public school system.
-
-I calculated diversity by using Simpson's Diversity Index, which results in a rating between 0 and 1.
+Explores diversity and possible correlations in the New York City Public school system. I calculated diversity by using <b>Simpson's Diversity Index</b>, which results in a rating between 0 and 1.
 
 ![Simson's Diversity Index formula](Resources/formula.png)
 
@@ -22,9 +20,15 @@ Low scores (close to 0) indicate low diversity.
 
 ## Run
 
-The below link takes you to the dashboard on Tableau Public:
+The below link takes you to the resulting dashboard on Tableau Public:
 
 [Diversity in NYC Schools - Tableau Story](https://public.tableau.com/app/profile/julia4245/viz/NYC_School_Stats/NYC_Diversity_Story?publish=yes)
+
+
+
+## Tools
+
+Python, Jupyter Notebook, SQLAlchemy, pgAdmin, Tableau
 
 
   
@@ -38,11 +42,6 @@ Shows the risk level, trend, and ICU capacity for the area presently. (I calcula
 
 ![Sample Graphs](static/graphs_3.png)
 
-
-
-## Tools
-
-JavaScript, Plotly.js, D3, Bootstrap, HTML5, CSS, Flask, Python
 
 
 
