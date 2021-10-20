@@ -4,12 +4,11 @@
 
 Explores diversity and possible correlations in the New York City Public school system. I calculated diversity by using <b>Simpson's Diversity Index</b>, which results in a rating between 0 and 1.
 
-![Simson's Diversity Index formula](Resources/formula.png)
-
-<img src="Resources/formula.png" width="440" height="264"/>
+<img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/formula.png" width="20%" height="20%">
 
 High scores (close to 1) indicate high diversity.
 Low scores (close to 0) indicate low diversity.
+
 
 ## Table of Contents
 * [Run](#Results)
