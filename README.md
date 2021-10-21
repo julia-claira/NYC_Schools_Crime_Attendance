@@ -43,7 +43,7 @@ Shows the risk level, trend, and ICU capacity for the area presently. (I calcula
 
 <img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/graph2.jpg" width="70%" height="70%">
 
-<img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/graph3.jpg" width="70%" height="70%">
+<img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/graph_3.jpg" width="70%" height="70%">
 
 
 
