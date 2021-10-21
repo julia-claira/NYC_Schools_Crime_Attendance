@@ -44,7 +44,7 @@ Diversity in individual schools, and borough diversity comparison:
 Correlation between diversity and other school measurments, such as attendance, school crime, SAT scores, and enrollment:
 <img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/graph_2.jpg" width="70%" height="70%">
 
-Racial composition in the most diverse and least diverse schools:
+Racial composition in the least diverse schools:
 <img src="https://github.com/julia-claira/NYC_Schools_Crime_Attendance/blob/main/Resources/graph_3.jpg" width="70%" height="70%">
 
 
